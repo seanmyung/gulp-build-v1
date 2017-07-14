@@ -34,6 +34,6 @@ You can press `Ctrl-C` to stop the Node.js application
 ### Screenshots1
 ![](images/Screen%20Shot1.png)
 ### Screenshots2
-![](mock/images/Screen%20Shot1.png)
+![](images/Screen%20Shot2.png)
 ### Screenshots3
-![](mock/images/Screen%20Shot3.png)
+![](images/Screen%20Shot3.png)
